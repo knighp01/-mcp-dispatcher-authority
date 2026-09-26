@@ -1,0 +1,11 @@
+{
+  "type": "github_protected",
+  "authority_actor": "chatgpt",
+  "packet_id": "dispatcher-e2e-001",
+  "repository": "knighp01/-mcp-dispatcher-sandbox",
+  "base_sha": "a4980b54a514fd7fdd6f34757a50f77565df05c8",
+  "proof_id": "dispatcher-e2e-001-authority",
+  "nonce": "47d7e599-8264-4333-9ae9-9725a727645c",
+  "work_packet_digest": "fcae962e1809284e596bb19905857e9e7eaacd01101ad51aaee0659e382462b5",
+  "timestamp": "2026-09-26T10:03:00Z"
+}
